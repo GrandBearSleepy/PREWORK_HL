@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#green {
+    color: green;
+}
+
+#big {
+    font-size: xx-large;
+}
+
+#tiny {
+    font-size: xx-small;
+}
+
+#center {
+    text-align: center;
+}
+
+#border {
+    font-weight: bolder;
+}
+
+#fontChanged {
+    font-family: fantasy;
+}
+
+#multiple {
+    font-size: larger;
+    color: orange;
+    font-weight: bolder;
+}
+
+.styledFont{
+    color: green;
+    font-weight: bolder;
+}
+
+#styledImage{
+    border:5px solid black;
+}

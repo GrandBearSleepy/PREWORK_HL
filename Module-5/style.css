@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+#p1 {
+    color: red;
+}
+#p2 {
+    color:blue;
+}
+#p3 {
+    color: green;
+}
+#p4 {
+    font-size: xx-large;
+}
+#p5 {
+    font-size: smaller;
+}
+#p6 {
+    text-align: center;
+}
+#p7 {
+    font-weight: bolder;
+}
+#p8 {
+    font-family: cursive;
+}
+#p9 {
+    color: orange;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.styledFont{
+    color: green;
+    font-weight: bolder;
+}
+#styledImage{
+    font-weight: bolder;
+}
